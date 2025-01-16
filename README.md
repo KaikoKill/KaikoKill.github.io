@@ -1,1 +1,1 @@
-<span>Hola mundo</span>
+Hola mundo
