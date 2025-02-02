@@ -1,6 +1,6 @@
 # 🚀 Backend Developer | Python & Django Specialist
 
-¡Hola! 👋 Soy un **Programador Backend** con experiencia en el desarrollo de soluciones robustas y escalables. Mi enfoque principal está en Python, utilizando frameworks como Django y Django REST Framework para construir APIs eficientes.
+¡Hola! 👋 Soy un **Programador Backend** con experiencia en el desarrollo de soluciones robustas y escalables. Gran entusiasta del desarrollo web, mi enfoque principal está en Python, utilizando frameworks como Django y Django REST Framework para construir APIs eficientes.
 
 ---
 
