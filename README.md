@@ -29,11 +29,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [API REST para E-commerce](/) | Sistema de gestión de pedidos y usuarios | Django REST, PostgreSQL, JWT |
-| [Sistema de Autenticación](/) | Microservicio de autenticación escalable | Python, DRF, Docker |
-| [Panel Admin Personalizado](/) | Herramienta interna con reportes automatizados | Django, Chart.js, Bootstrap |
+| [**Sistema de Eventos - Depto. Informática**](/) | Plataforma para gestión de eventos académicos (charlas, talleres) con autenticación de usuarios. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
+| [**Formulario Médico de Remisión**](/) | API para registro y seguimiento de casos médicos con validación de datos y generación de PDF automática. | ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) |
+| [**Modelo IA - Cáncer de Mama (Wisconsin)**](/) | Sistema predictivo basado en Machine Learning para análisis de diagnóstico temprano (precisión >97%). | ![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) |
 
----
 
 ### 📚 En Aprendizaje Constante
 
@@ -44,7 +43,7 @@
 
 ### 📫 ¿Cómo contactarme?
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaikoKill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ernesto-carbonell-paz-06b05a25a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecpkiko2002@gmail.com)
 
